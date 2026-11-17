@@ -1,0 +1,14 @@
+{
+  "extraKnownMarketplaces": {
+    "finance-skills": {
+      "source": { "source": "github", "repo": "MK2511/Claude_Finance_App" }
+    }
+  },
+  "enabledPlugins": {
+    "finance-market-analysis@finance-skills": true,
+    "finance-data-providers@finance-skills": true,
+    "finance-social-readers@finance-skills": true,
+    "finance-startup-tools@finance-skills": true,
+    "finance-ui-tools@finance-skills": true
+  }
+}
